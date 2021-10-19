@@ -12,5 +12,9 @@ public class Dp {
 		
 	}
 	
+	public void foo()
+	{
+		
+	}
 	
 }
