@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-10T14:57:38Z" name="Default suite" finished-at="2021-10-10T14:57:54Z" duration-ms="15988">
+    <groups>
+    </groups>
+    <test started-at="2021-10-10T14:57:38Z" name="Default test" finished-at="2021-10-10T14:57:54Z" duration-ms="15988">
+      <class name="Apiautomation.Apiautomation.Exaples">
+        <test-method signature="run(java.lang.String)[pri:0, instance:Apiautomation.Apiautomation.Exaples@6cb6decd]" started-at="2021-10-10T14:57:38Z" name="run" data-provider="example" finished-at="2021-10-10T14:57:45Z" duration-ms="6849" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method signature="run(java.lang.String)[pri:0, instance:Apiautomation.Apiautomation.Exaples@6cb6decd]" started-at="2021-10-10T14:57:45Z" name="run" data-provider="example" finished-at="2021-10-10T14:57:50Z" duration-ms="4810" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method signature="run(java.lang.String)[pri:0, instance:Apiautomation.Apiautomation.Exaples@6cb6decd]" started-at="2021-10-10T14:57:50Z" name="run" data-provider="example" finished-at="2021-10-10T14:57:54Z" duration-ms="4295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- Apiautomation.Apiautomation.Exaples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
