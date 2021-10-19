@@ -92,6 +92,10 @@ public class Exaples {
 	System.out.println("post gira 3");
 	System.out.println("post gira 4");
 	
+	System.out.println("post gira 11");
+	System.out.println("post gira 2");
+	System.out.println("post gira 3");
+	System.out.println("post gira 4");
 	}
 	
 	
